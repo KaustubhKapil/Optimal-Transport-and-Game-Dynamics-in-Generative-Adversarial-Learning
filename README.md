@@ -1,4 +1,4 @@
-# GameFlow: Adversarial Game Dynamics and Optimal-Transport Adaptation
+# Optimal Transport and Game Dynamics in Generative Adversarial Learning
 
 A reproducible mini-project studying **two-player game dynamics**, **distributional trajectories in generative adversarial learning**, and a practical **optimal-transport (OT) image-classification demonstration**.
 
