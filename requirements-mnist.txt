@@ -1,0 +1,4 @@
+# Optional dependencies only for the 28x28 MNIST WGAN-GP cell.
+-r requirements.txt
+torch
+torchvision

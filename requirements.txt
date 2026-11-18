@@ -1,0 +1,8 @@
+# Python 3.10+; common dependencies for the completed experiments.
+# Environment versions are not locked; the notebooks themselves remain unchanged.
+numpy
+scipy
+scikit-learn
+matplotlib
+jupyter
+ipykernel
